@@ -139967,3 +139967,7 @@ export {
   L9t as t,
 };
 //# sourceMappingURL=index-B7vTaSwF.js.map
+
+const $element=document.createElement('h1')
+$element.textContent='hello world'
+document.body.append($element)
